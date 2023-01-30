@@ -3,7 +3,7 @@
 
 <ul>
   <p>1. Countdown Timer </p>
-  <p><img src= "countdown-timer.png"></img></p>
+ <img src="Screenshot (178).png" alt="Resim ile ilgili açıklama">
   <li>Future Date</li>
   <li>Timer</li>
   
